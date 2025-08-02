@@ -14,4 +14,3 @@ This project sets up a simple **Apache Kafka** environment using **Docker Compos
 | Kafka       | 9092 | Kafka broker for publishing/subscribing data |
 | Kafka UI    | 8080 | Web interface to interact with Kafka         |
 
----
